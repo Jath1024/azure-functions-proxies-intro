@@ -34,7 +34,7 @@ Before the demo, you should prepare with the following:
 3. Create an app setting in the frontend application, *HELLO_HOST*, which is set with the hostname of the backend (e.g., _backend.azurewebsites.net_). You could optionally do this as part of the demo if audience would not be familiar with app settings.
 4. Create a blob container and upload a simple HTML page to it. It could just say "Hello from Azure Blob Storage." Make the blob public for simplicity. Note the host and path.
 5. Create an app setting in the frontend application, *BLOB_HOST*, which is set with the storage URL of the page you uploaded.
-6. Make sure 
+
 
 ### Recommended demo machine state
 
